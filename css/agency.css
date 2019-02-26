@@ -908,7 +908,7 @@ body {
 	padding: 0;
 	width: 400%;
 	
-	animation: cambio 50s infinite alternate linear;
+	animation: cambio 40s infinite alternate linear;
 }
 
 .slider li {
