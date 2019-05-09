@@ -1011,7 +1011,7 @@ body {
 
 @media (max-width:991px) {
   .carousel .background {
-    background-size: cover; /* To make the background image looks good */
+    background-size: contain; /* To make the background image looks good */
   }
 }
 
