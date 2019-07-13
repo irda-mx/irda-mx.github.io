@@ -172,7 +172,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-custom {
-    background-color: #222222;
+    background-color: white;
     border-color: transparent
 }
 
@@ -235,7 +235,7 @@ fieldset[disabled] .btn-xl.active {
 @media (min-width: 768px) {
     .navbar-custom {
         background-color: transparent;
-        padding: 25px 0;
+        padding: 20px 0;
         -webkit-transition: padding 0.3s;
         -moz-transition: padding 0.3s;
         transition: padding 0.3s;
@@ -1016,23 +1016,23 @@ body {
 }
 
 .carousel .background.a {
-  background-image: url('../img/slideshow/slide1.jpg');
+    background-image: url('../img/slideshow/slide1.jpg');
 }
 
 .carousel .background.b {
-  background-image: url('../img/slideshow/slide2.jpg');
+    background-image: url('../img/slideshow/slide2.jpg');
 }
 
 .carousel .background.c {
-  background-image: url('../img/slideshow/slide3.jpg');
+    background-image: url('../img/slideshow/slide3.jpg');
 }
 
-.carousel .background.c {
-  background-image: url('../img/slideshow/slide4.jpg');  
+.carousel .background.d {
+    background-image: url('../img/slideshow/slide4.jpg');  
 }
 
-.carousel .background.c {
-    background-image: url('../img/slideshow/slide5.jpg')
+.carousel .background.e {
+    background-image: url('../img/slideshow/slide5.jpg');
 }
 
 .carousel-fade .carousel-inner .item {
