@@ -908,7 +908,7 @@ body {
 	padding: 0;
 	width: 400%;
 	
-	animation: cambio 40s infinite alternate linear;
+	animation: cambio 30s infinite alternate linear;
 }
 
 .slider li {
@@ -1027,11 +1027,11 @@ body {
     background-image: url('../img/slideshow/slide3.jpg');
 }
 
-.carousel .background.a {
+.carousel .background.d {
     background-image: url('../img/slideshow/slide4.jpg');  
 }
 
-.carousel .background.b {
+.carousel .background.e {
     background-image: url('../img/slideshow/slide5.jpg');
 }
 
