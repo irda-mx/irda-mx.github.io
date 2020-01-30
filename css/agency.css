@@ -1039,6 +1039,10 @@ body {
     background-image: url('../img/slideshow/slide6.jpg');
 }
 
+.carousel .background.g {
+    background-image: url('../img/slideshow/slide7.jpg');
+}
+
 .carousel-fade .carousel-inner .item {
   opacity: 0;
   transition: opacity 0.5s; /* The 0.5s describes the duration to make the opacity from 0 to 1 */
